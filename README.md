@@ -1,7 +1,7 @@
 ![MasterHead](https://cdn.pixabay.com/animation/2024/05/07/06/57/06-57-07-12_512.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm SOUBHAGYA BISWAL</h1>
 <h3 align="center">A Tech Visionary From India</h3>
-(img align="right" alt="Coding" width="400" src="https://kaarwan.s3.amazonaws.com/public/blog/media/1/charging-(1)_1730742227647.gif")
+img align="right" alt="Coding" width="400" src="https://kaarwan.s3.amazonaws.com/public/blog/media/1/charging-(1)_1730742227647.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soubhagya-05&label=Profile%20views&color=0e75b6&style=flat" alt="soubhagya-05" /> </p>
 
