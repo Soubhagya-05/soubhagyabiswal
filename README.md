@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Soubhagya-05/Biswal-Connect/blob/main/src/assets/logo.gif)
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/34220e95746151.5e9ecde696cb0.gif)
 
 <h1 align="center">Hi 👋, I'm SOUBHAGYA BISWAL</h1>
 <h3 align="center">🚀 Tech Visionary | AI Enthusiast | UI/UX Designer from India 🇮🇳</h3>
