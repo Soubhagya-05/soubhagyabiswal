@@ -1,4 +1,4 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/34220e95746151.5e9ecde696cb0.gif)
+![MasterHead](https://files.reportz.co.in/company143/uploads/Sept%202021/school_bus_animation.gif)
 
 <h1 align="center">Hi 👋, I'm SOUBHAGYA BISWAL</h1>
 <h3 align="center">🚀 Tech Visionary | AI Enthusiast | UI/UX Designer from India 🇮🇳</h3>
