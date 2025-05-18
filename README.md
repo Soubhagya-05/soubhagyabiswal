@@ -5,29 +5,31 @@
 
 <img align="right" alt="Coding" width="400" src="https://kaarwan.s3.amazonaws.com/public/blog/media/1/charging-(1)_1730742227647.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soubhagya-05&label=Profile%20views&color=0e75b6&style=flat" alt="soubhagya-05" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=soubhagya-05&label=Profile%20views&color=0e75b6&style=flat" alt="soubhagya-05" />
+</p>
 
 - 🔭 I’m currently working on **AI/ML Projects**
 - 🌱 I’m currently learning **Machine Learning**
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/soubhagya-biswal-a39542310/)
 - 💬 Ask me about **UI/UX Design, AI Model Development**
-- 📫 How to reach me: **soubhagyabiswal999@gmail.com**
+- 📫 Reach me at **soubhagyabiswal999@gmail.com**
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/soubhagyabiswal" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soubhagyabiswal" height="30" width="40" />
-</a>
-<a href="https://www.youtube.com/@thesoubhagya" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="the soubhagya" height="30" width="40" />
-</a>
+  <a href="https://linkedin.com/in/soubhagyabiswal" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soubhagyabiswal" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/@thesoubhagya" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="the soubhagya" height="30" width="40" />
+  </a>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -50,8 +52,10 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soubhagya-05&show_icons=true&locale=en&layout=compact" alt="soubhagya-05" /></p>
+<h3 align="left">📊 GitHub Stats:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soubhagya-05&show_icons=true&locale=en" alt="soubhagya-05" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soubhagya-05&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soubhagya-05&" alt="soubhagya-05" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soubhagya-05&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soubhagya-05&" alt="GitHub Streak" /></p>
